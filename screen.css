@@ -6,16 +6,16 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 35px;
     padding: 35px;
-    border-top: 10px solid #0000;
+    border-top: 10px solid #2100c8e0;
     background: #fff;
 }
 
 h1 {
-
+margin: 0;
 }
 
 p { 
-
+    line-height: 1.5em;
 }
 
 #blog {
@@ -23,5 +23,9 @@ p {
 }
 
 .blog-post {
+    border-bottom:5px solid #2100c8e0
+}
 
+.blog-post2 {
+    border-bottom:5px solid #2100c8e0
 }
