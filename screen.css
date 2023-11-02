@@ -19,11 +19,12 @@ p {
 }
 
 #blog {
-
+    border-top: solid #2100c8e0;
 }
 
 .blog-post {
     border-bottom:5px solid #2100c8e0
+
 }
 
 .blog-post2 {
