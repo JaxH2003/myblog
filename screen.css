@@ -1,8 +1,13 @@
 /* Add screen styles below */
+html {
+    background: #e3e3e3;
+}
 body {
     font-family: 'Times New Roman', Times, serif;
     margin: 35px;
-    border-top: 10px solid #0000
+    padding: 35px;
+    border-top: 10px solid #0000;
+    background: #fff;
 }
 
 h1 {
