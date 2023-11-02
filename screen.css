@@ -1,4 +1,22 @@
 /* Add screen styles below */
 body {
-    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 35px;
+    border-top: 10px solid #0000
+}
+
+h1 {
+
+}
+
+p { 
+
+}
+
+#blog {
+
+}
+
+.blog-post {
+
 }
