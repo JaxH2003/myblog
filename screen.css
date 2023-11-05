@@ -52,5 +52,7 @@ p {
 }
 
 img {
-    float: left;
+    float: right;
+    margin-left: 10px;
+    border-color:#2100c8e0; 
 }
