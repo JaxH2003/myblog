@@ -45,4 +45,7 @@ p {
 
 section {
     display: flex;
+    border-color: #2100c8e0;
+    padding: 10px;
+    margin: 10px;
 }
