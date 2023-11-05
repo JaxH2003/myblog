@@ -8,6 +8,7 @@ body {
     padding: 35px;
     border-top: 10px solid #2100c8e0;
     background: #fff;
+    border-bottom: 10px solid #2100c8e0;
 }
 
 h1 {    
@@ -32,4 +33,10 @@ p {
 .blog-post2 {
     border-bottom:5px solid #2100c8e0;
     padding: 35px;
+}
+
+.sidebar {
+    border: 3px solid black;
+    padding: 15px;
+    background-color: #fff;
 }
