@@ -28,11 +28,19 @@ p {
 .blog-post {
     border-bottom:5px solid #2100c8e0;
     padding: 35px;
+    display: flex;
+    border-color: #2100c8e0;
+    padding: 10px;
+    margin: 10px;
 }
 
 .blog-post2 {
     border-bottom:5px solid #2100c8e0;
     padding: 35px;
+    display: flex;
+    border-color: #2100c8e0;
+    padding: 10px;
+    margin: 10px;
 }
 
 .sidebar {
@@ -41,11 +49,4 @@ p {
     background-color: #fff;
     position: sticky;
     top: 0;
-}
-
-section {
-    display: flex;
-    border-color: #2100c8e0;
-    padding: 10px;
-    margin: 10px;
 }
