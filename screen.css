@@ -42,3 +42,7 @@ p {
     position: sticky;
     top: 0;
 }
+
+img {
+    float: right;
+}
