@@ -39,4 +39,6 @@ p {
     border: 3px solid black;
     padding: 15px;
     background-color: #fff;
+    position: sticky;
+    top: 0;
 }
